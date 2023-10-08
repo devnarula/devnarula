@@ -1,5 +1,14 @@
 ### Hi there 👋
+I am Dev Narula, a 3rd year student at the University of Waterloo pursuing Computer Science💻. 
 
+I love to travel ✈ and play video games 🎮 in my free time.
+
+📝Work Experiences:
+1. Royal Bank of Canada: Full Stack Engineer responsible for parsing and reconstructing PDF Files, building a web app for NLP Data visualization.
+2. BTNX: Software Engineer responsible for development of employee portal and E-Commerce website
+3. Cynorix: Software developer responsible for the development of a web discussion platform allowing voting, private messaging, and threaded discussions.
+
+My email: d3narula@uwaterloo.ca
 <!--
 **devnarula/devnarula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
