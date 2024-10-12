@@ -5,10 +5,10 @@ I love to travel ✈ and play video games 🎮 in my free time.
 
 📝Work Experiences:
 1. BitGo: Incoming Software Engineering intern in the Prime team.
-2. Purolator: Software Developer in the Receiver Solutions Team responsible for the development of microservices allowing users to track their shipments.
-3. Royal Bank of Canada: Full Stack Engineer responsible for parsing and reconstructing PDF Files, building a web app for NLP Data visualization.
-4. BTNX: Software Engineer responsible for development of employee portal and E-Commerce website
-5. Cynorix: Software developer responsible for the development of a web discussion platform allowing voting, private messaging, and threaded discussions.
+2. Purolator: Software Developer intern in the Receiver Solutions Team.
+3. Royal Bank of Canada: Full Stack Engineer intern responsible in the Digital Workplace Solutions team.
+4. BTNX: Software Engineer intern in the internal tools team.
+5. Cynorix: Software developer intern in the core platforms team.
 
 My email: d3narula@uwaterloo.ca
 <!--
