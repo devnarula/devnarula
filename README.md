@@ -4,7 +4,7 @@ I am Dev Narula, a 3rd year student at the University of Waterloo pursuing Compu
 I love to travel ✈ and play video games 🎮 in my free time.
 
 📝Work Experiences:
-1. BitGo: Incoming Software Engineering intern in the Prime team.
+1. BitGo: Software Engineering intern in the Go Networks team building institutional asset settlement software.
 2. Purolator: Software Developer intern in the Receiver Solutions Team.
 3. Royal Bank of Canada: Full Stack Engineer intern responsible in the Digital Workplace Solutions team.
 4. BTNX: Software Engineer intern in the internal tools team.
