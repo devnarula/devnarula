@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Dev Narula, a 3rd year student at the University of Waterloo pursuing Computer Science💻. 
+I am Dev Narula, a Computer Science graduate from the University of Waterloo. 
 
 I love to travel ✈ and play video games 🎮 in my free time.
 
